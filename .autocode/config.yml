@@ -1,0 +1,7 @@
+name: my rest api
+description: a rest api
+author:
+  name: Chris Tate
+  email: test@crystal.sh
+  url: 'http://crystalcodegen.com'
+copyright: 2015 Chris Tate
